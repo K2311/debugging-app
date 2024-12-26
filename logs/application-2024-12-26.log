@@ -1,0 +1,8 @@
+2024-12-26T12:26:41.599Z [info]: Server running on port 3000
+
+2024-12-26T12:27:52.331Z [info]: Server running on port 3000
+2024-12-26T12:28:39.589Z [info]: Request received: GET /
+2024-12-26T12:28:39.605Z [debug]: Debugging root route
+2024-12-26T12:28:50.202Z [info]: Request received: GET /error
+2024-12-26T12:28:50.204Z [error]: An error occurred on the /error route!
+2024-12-26T12:29:39.429Z [info]: Request received: GET /login
